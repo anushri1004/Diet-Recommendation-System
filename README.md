@@ -47,40 +47,27 @@ Pandas & Numpy (for data processing)
 🧪 Setup Instructions
 Clone this repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/your-username/smart-diet-recommender.git
 cd smart-diet-recommender
 Create a virtual environment:
 
-bash
-Copy
-Edit
+
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Flask app:
 
-bash
-Copy
-Edit
+
 python app.py
 Open your browser and go to:
 
-cpp
-Copy
-Edit
+
 http://127.0.0.1:5000/
 📂 Project Structure
-csharp
-Copy
-Edit
 smart-diet-recommender/
 │
 ├── app.py                    
