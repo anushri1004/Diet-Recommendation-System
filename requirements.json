@@ -1,0 +1,23 @@
+{
+  "required_columns": [
+    "name",
+    "serving_size",
+    "calories",
+    "total_fat",
+    "saturated_fat",
+    "cholesterol",
+    "sodium",
+    "choline",
+    "folate",
+    "fat",
+    "saturated_fatty_acids",
+    "monounsaturated_fatty_acids",
+    "polyunsaturated_fatty_acids",
+    "fatty_acids_total_trans",
+    "alcohol",
+    "ash",
+    "caffeine",
+    "theobromine",
+    "water"
+  ]
+}
